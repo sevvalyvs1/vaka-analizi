@@ -1,0 +1,41 @@
+﻿geri_bildirim_id,arac_id,metin,duygu_altin,konular_altin,duygu_llm,konular_llm
+9310,502103,"Fatura tutarı verilen tekliften yüksek çıktı, önceden bilgilendirilmedim.",Olumsuz,"fiyat, personel",Olumsuz,fiyat
+9079,500773,"Randevu saatinde gittim ama iki saat bekledim, kimse bilgi vermedi.",Olumsuz,"süre, personel",Olumsuz,"randevu, süre, personel"
+9168,500204,"Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.",Olumlu,"personel, fiyat",Olumlu,fiyat
+9623,500144,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",Olumlu,"randevu, süre",Olumlu,"randevu, süre"
+9108,501463,"Hiç de memnun kalmadım denemez, işlerini biliyorlar.",Olumlu,iş_kalitesi,Olumsuz,"iş_kalitesi, personel"
+9122,500534,"Rakip markanın servisinde aynı işlem daha ucuzdu, orayı tercih edeceğim.",Olumsuz,fiyat,Olumsuz,fiyat
+9620,503538,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik,Olumsuz,temizlik
+9505,503816,Yedek araç verilmesi büyük kolaylık oldu.,Olumlu,diğer,Olumlu,diğer
+9187,503254,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik,Olumsuz,temizlik
+9215,500555,"Yedek parça iki hafta bekledi, bu süre boyunca aracım serviste kaldı.",Olumsuz,"yedek_parça, süre",Olumsuz,"yedek_parça, süre"
+9058,504412,"Personel çok nazikti, sadece süre biraz uzun sürdü.",Karışık,"personel, süre",Karışık,"personel, süre"
+9158,503936,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",Olumlu,"randevu, süre",Olumlu,"randevu, süre"
+9318,503944,"Yedek parça iki hafta bekledi, bu süre boyunca aracım serviste kaldı.",Olumsuz,"yedek_parça, süre",Olumsuz,"yedek_parça, süre"
+9370,503244,"Arıza giderilmemiş, aynı ses devam ediyor. Tekrar gitmek zorunda kaldım.",Olumsuz,iş_kalitesi,Olumsuz,iş_kalitesi
+9071,504147,"Harika bir deneyimdi, sadece üç hafta bekledim.",Olumsuz,süre,Olumlu,"süre, randevu"
+9404,503829,"Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.",Olumsuz,diğer,Olumsuz,personel
+9139,501121,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,personel,Olumlu,"personel, iş_kalitesi"
+9086,504625,"Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.",Olumsuz,diğer,Olumsuz,personel
+9412,502749,Kampanya mesajı geldi ama şubede geçerli değilmiş.,Olumsuz,diğer,Olumsuz,diğer
+9549,504360,"Personel çok nazikti, sadece süre biraz uzun sürdü.",Karışık,"personel, süre",Karışık,"personel, süre"
+9417,503543,"Aracımla ilgili değil ama web sitenizden randevu alınmıyor, sürekli hata veriyor.",Olumsuz,randevu,Olumsuz,randevu
+9004,500867,"Randevu saatinde gittim ama iki saat bekledim, kimse bilgi vermedi.",Olumsuz,"süre, personel",Olumsuz,"randevu, süre, personel"
+9511,501653,Bir yıldız bile fazla.,Olumsuz,,Olumsuz,
+9198,504613,"Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.",Olumlu,"personel, fiyat",Olumlu,"fiyat, personel"
+9271,503702,"Randevu almak kolaydı, işlem hızlı bitti. Memnun kaldım.",Olumlu,"randevu, süre",Olumlu,"randevu, süre"
+9594,502057,"Aracımın içinde yağ lekesi bıraktılar, koltuk kirlenmişti.",Olumsuz,temizlik,Olumsuz,"iş_kalitesi, temizlik"
+9216,501600,"Danışman bey her adımı tek tek anlattı, fiyat konusunda da şeffaftı.",Olumlu,"personel, fiyat",Olumlu,fiyat
+9431,501815,Sorun yok.,Olumlu,,Olumlu,
+9447,502851,"Beklediğimden erken bitti, aradılar haber verdiler.",Olumlu,süre,Olumlu,süre
+9244,503153,"Randevu saatinde gittim ama iki saat bekledim, kimse bilgi vermedi.",Olumsuz,"süre, personel",Olumsuz,"randevu, süre, personel"
+9149,503263,İşçilik kalitesi iyiydi ama fiyatlandırma gerçekten pahalı.,Karışık,"iş_kalitesi, fiyat",Karışık,"iş_kalitesi, fiyat"
+9194,501007,"Fatura tutarı verilen tekliften yüksek çıktı, önceden bilgilendirilmedim.",Olumsuz,"fiyat, personel",Olumsuz,fiyat
+9179,503991,Kötü diyemem ama bir daha gelir miyim bilmiyorum.,Karışık,,Olumsuz,
+9517,503428,"Telefonla kimseye ulaşamıyorum, çağrı merkezi sürekli meşgul.",Olumsuz,diğer,Olumsuz,personel
+9527,502557,"Aracı teslim alırken içi temizlenmişti, güzel bir detay.",Olumlu,temizlik,Olumlu,temizlik
+9479,502671,"Yedek parça iki hafta bekledi, bu süre boyunca aracım serviste kaldı.",Olumsuz,"yedek_parça, süre",Olumsuz,"yedek_parça, süre"
+9432,502452,"İkinci kez geliyorum, yine sorunsuz. Ekibe teşekkürler.",Olumlu,personel,Olumlu,"personel, iş_kalitesi"
+9308,503225,İyi.,Olumlu,,Olumlu,
+9237,500504,Yedek araç verilmesi büyük kolaylık oldu.,Olumlu,diğer,Olumlu,diğer
+9516,501845,"Yedek parça iki hafta bekledi, bu süre boyunca aracım serviste kaldı.",Olumsuz,"yedek_parça, süre",Olumsuz,"yedek_parça, süre"
