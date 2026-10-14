@@ -132,7 +132,6 @@ Etiketleme için Groq üzerinden `openai/gpt-oss-20b` modelini `temperature=0` a
 - **İroni (5 kayıt):** *"Harika bir deneyimdi, sadece üç hafta bekledim."* cümlesini Olumlu olarak etiketledi. "Harika" kelimesine takılıp cümledeki alayı kaçırdı.
 - **Çift olumsuz yapı (4 kayıt):** *"Hiç de memnun kalmadım denemez, işlerini biliyorlar."* cümlesini Olumsuz olarak etiketledi. "Memnun kalmadım" kısmına takılıp "denemez" ifadesinin anlamı tersine çevirdiğini fark etmedi.
 - **Çekingen ifadeler (12 kayıt):** *"Fena değildi"* cümlesini Olumlu, *"Kötü diyemem ama bir daha gelir miyim bilmiyorum"* cümlesini Olumsuz olarak etiketledi. Bunlar asıl olarak görev tanımındaki bir belirsizlikten kaynaklanıyor, çünkü çekingen ifadelerin Karışık sayılacağı ilk prompt'ta belirtilmemişti. Bu metinler hariç tutulduğunda doğruluk %94,7'ye çıkıyor.
-- **Tutarsızlık (1 kayıt):** `temperature=0` ayarına rağmen, aynı metne bir çalıştırmada Karışık, diğerinde Olumsuz dedi.
 
 Konu etiketlerinde, metinde açıkça geçen konular (fiyat, süre, yedek parça, temizlik) hatasız bulundu. Buradaki sistematik hata, `iş_kalitesi` konusunun gereğinden fazla kullanılması: LLM'in bu konuyu etiketlediği durumların yalnızca %43'ü doğru. LLM, "yine sorunsuz" ya da "mükemmel değildi" gibi genel ifadelerden, metinde geçmediği halde bir iş kalitesi değerlendirmesi çıkarıyor.
 
