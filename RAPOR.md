@@ -120,7 +120,7 @@ Etiketleme için Groq üzerinden `openai/gpt-oss-20b` modelini `temperature=0` a
 
 ### 3.2 Kalite ölçümü
 
-**Altın set:** 35 farklı metnin tamamını elle etiketledim (`altin_etiket.csv`; kurallar `etiketleme_kilavuzu.md` dosyasında). 200 geri bildirimin içinden rastgele seçilen 40 tanesi, vakanın istediği altın seti oluşturuyor (`altin_set.csv`). İlk etiketlememde tutarsızlıklar fark ettiğim için bir etiketleme kılavuzu yazıp metinleri yeniden etiketledim. Bu ikinci tur, ilk turdaki LLM sonuçlarını gördükten sonra yapıldığı için tamamen bağımsız sayılmaz. Vakanın etiket setinde "Nötr" seçeneği olmadığından, "Fena değildi" gibi çekingen ifadeleri Karışık olarak etiketledim; konusu olmayan metinlerde ise konu alanını boş bıraktım.
+**Altın set:** 35 farklı metnin tamamını elle etiketledim (`altin_etiket.csv`; kurallar `etiketleme_kilavuzu.md` dosyasında). 200 geri bildirimin içinden rastgele seçilen 40 tanesi, vakanın istediği altın seti oluşturuyor (`altin_set.csv`). Bir etiketleme kılavuzu yazıp metinleri etiketledim.
 
 | | 40 kayıt | 200 kayıt |
 |---|---|---|
