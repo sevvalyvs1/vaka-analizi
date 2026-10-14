@@ -137,7 +137,7 @@ Konu etiketlerinde, metinde açıkça geçen konular (fiyat, süre, yedek parça
 
 ### Bonus: Prompt iyileştirmesi
 
-İkinci prompt'ta LLM'den duyguyu doğrudan söylemesini istemek yerine, önce metinde değerlendirilen her konuyu ve yönünü çıkarmasını, duyguyu da bu değerlendirmelerden türetmesini istedim. Prompt'a çekingen ifadeler için bir kural ve veride bulunmayan dört örnek ekledim; test metinlerine özgü bir ipucu kullanmadım. Günlük kota nedeniyle ikinci prompt'u her farklı metin için bir kez çalıştırdım. Bu, doğruluk karşılaştırmasını etkilemiyor, ancak ikinci prompt'un tutarlılığı ölçülemedi.
+İkinci prompt'ta LLM'den duyguyu doğrudan söylemesini istemek yerine, önce metinde değerlendirilen her konuyu ve yönünü çıkarmasını, duyguyu da bu değerlendirmelerden türetmesini istedim. Prompt'a çekingen ifadeler için bir kural ve veride bulunmayan dört örnek ekledim; test metinlerine özgü bir ipucu kullanmadım. 
 
 | | Prompt 1 | Prompt 2 |
 |---|---|---|
